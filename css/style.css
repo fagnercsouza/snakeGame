@@ -1,0 +1,19 @@
+body{
+    /* margin: auto; */
+    height: 95vh;
+    width: 95vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background: #ffef97;
+    color: rgb(5, 59, 0);
+}
+
+h1{
+    background: rgba(0,0,0,.5);
+    border-radius: 15px;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    padding: 10px 5rem;
+}
